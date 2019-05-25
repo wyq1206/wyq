@@ -1,0 +1,211 @@
+.page1 {
+    background: url('image/beijing3.webp') no-repeat;
+    background-size: cover;
+}
+.page1 img {
+    position: absolute;
+}
+
+.page1 img:nth-of-type(1) {
+    width: 7rem;
+    height: 9rem;
+    left: 0.4rem;
+    top: 4.5rem;
+}
+.page1 img:nth-of-type(2) {
+    width: 7.5rem;
+    height: 4rem;
+    left: 0;
+    top: 0;
+}
+
+
+
+.page2 {
+    background: url('image/beijing3.webp') no-repeat;
+    background-size: cover;
+}
+
+.page2 img {
+    position: absolute;
+}
+
+.page2 img:nth-of-type(1) {
+    width: 4rem;
+    height: 5rem;
+    left: 2rem;
+    top: .5rem;
+}
+
+.page2 img:nth-of-type(2) {
+    width: 3rem;
+    height: 2rem;
+    right: 0;
+    bottom: 0
+}
+
+.page2 img:nth-of-type(3) {
+    width: 4rem;
+    height: 5rem;
+    left: 2rem;
+    top: 6rem;
+}
+
+.page3 {
+    background: url('image/beijing3.webp') no-repeat;
+    background-size: cover;
+}
+
+.page3 img {
+    position: absolute;
+}
+
+.page3 img:nth-of-type(1) {
+    width: 7.5rem;
+    height: 4rem;
+    left: 0;
+    top: 0;
+}
+
+.page3 img:nth-of-type(2) {
+    width: 4.5rem;
+    height: 4rem;
+    left: 0;
+    top: 4.5rem;
+}
+
+.page3 img:nth-of-type(3) {
+    width: 4.5rem;
+    height: 3rem;
+    left: 0;
+    bottom: 1.5rem;
+}
+.page3 img:nth-of-type(4) {
+    width: 3rem;
+    height: 7rem;
+    right: 0;;
+    bottom: 1.5rem;
+}
+
+.page4 {
+    background: url('image/beijing3.webp') no-repeat;
+    background-size: cover;
+}
+
+.page4 img {
+    position: absolute;
+}
+
+
+.page4 img:nth-of-type(1) {
+    width: 5rem;
+    height: 4rem;
+    left: 2.5rem;
+    top: 0;
+}
+
+.page4 img:nth-of-type(2) {
+    width: 5rem;
+    height: 4rem;
+    left: 2.5rem;
+    top: 4.5rem;
+}
+
+.page4 img:nth-of-type(3) {
+    width: 5rem;
+    height: 4rem;
+    left: 2.5rem;
+    bottom: 0;
+}
+.page4 img:nth-of-type(4) {
+    width: 2.5rem;
+    height: 12rem;
+    left: 0;
+    bottom: 0.5rem;
+}
+
+.page5 {
+    background: url('image/beijing3.webp') no-repeat;
+    background-size: cover;
+}
+
+.page5 img {
+    position: absolute;
+}
+.page5 img:nth-of-type(1) {
+    width: 3.7rem;
+    height: 4rem;
+    left: 0;
+    top: 0;
+}
+
+.page5 img:nth-of-type(2) {
+    width: 3.7rem;
+    height: 4rem;
+    right: 0;
+    top: 0;
+}
+
+.page5 img:nth-of-type(3) {
+    width: 3.7rem;
+    height: 3rem;
+    left: 0;
+    bottom: 0;
+}
+.page5 img:nth-of-type(4) {
+    width: 3.7rem;
+    height: 3rem;
+    right: 0;
+    bottom: 0;
+}
+.page5 img:nth-of-type(5) {
+    width: 6.5rem;
+    height: 6rem;
+    right: 0.6rem;
+    bottom: 3.2rem;
+}
+.page6 {
+    background: url('image/beijing3.webp') no-repeat;
+    background-size: cover;
+}
+
+.page6 img {
+    position: absolute;
+}
+.page6 img:nth-of-type(1) {
+    width: 9rem;
+    height: 5rem;
+    left: 0;
+    top: 4rem;
+}
+.page6 img:nth-of-type(2) {
+    width: 8rem;
+    height: 4rem;
+    left: 0;
+    bottom: 0;
+}
+.page7 {
+    background: url('image/beijing3.webp') no-repeat;
+    background-size: cover;
+}
+
+.page7 img {
+    position: absolute;
+}
+.page7 img:nth-of-type(1) {
+    width: 7rem;
+    height: 13rem;
+    left: 0.2rem;
+    top: 0.5rem;
+}
+.page7 img:nth-of-type(2) {
+    width: 7rem;
+    height: 5rem;
+    left: 0.2rem;
+    bottom: 0;
+}
+.page7 p{
+    font-family: initial;
+    font-size: .4rem;
+    color: aqua;
+}
